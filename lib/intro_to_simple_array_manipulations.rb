@@ -3,5 +3,12 @@ def using_shift(array, string)
 end 
 
 def using_shift(array, string)
-end 
 array.using_shift(string)
+end 
+
+def using_pop(array)
+  array.using_pop()
+end
+
+def pop_with_args(array)
+end 
