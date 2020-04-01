@@ -1,4 +1,4 @@
-def using_shift(array, string)
+def using_push(array, string)
   array.push(string)
 end 
 
